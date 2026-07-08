@@ -27,26 +27,15 @@
   const DEFAULT_ADMIN_PASSWORD = "evolution2026";
 
   const DEFAULT_ITEMS = [
-    { name: "Refrigerante", needed: 10 },
-    { name: "Suco", needed: 8 },
-    { name: "Água", needed: 10 },
-    { name: "Canjica", needed: 2 },
-    { name: "Pipoca", needed: 3 },
-    { name: "Paçoca", needed: 5 },
-    { name: "Pé de Moleque", needed: 5 },
-    { name: "Bolo", needed: 6 },
-    { name: "Milho", needed: 15 },
-    { name: "Cachorro-Quente", needed: 3 },
-    { name: "Salsicha", needed: 5 },
-    { name: "Pão", needed: 5 },
-    { name: "Molho", needed: 3 },
-    { name: "Pratos", needed: 5 },
-    { name: "Copos", needed: 5 },
-    { name: "Guardanapos", needed: 5 },
-    { name: "Talheres", needed: 5 },
-    { name: "Gelo", needed: 8 },
-    { name: "Carvão", needed: 4 },
-    { name: "Outro", needed: 10 }
+    { name: "Pão de Queijo", needed: 15 },
+    { name: "Cachorro-Quente", needed: 10 },
+    { name: "Quentão", needed: 3 },
+    { name: "Arroz Doce", needed: 5 },
+    { name: "Bolo de Fubá", needed: 4 },
+    { name: "Paçoca", needed: 6 },
+    { name: "Cocada", needed: 6 },
+    { name: "Pastéis", needed: 10 },
+    { name: "Salgadinhos", needed: 10 }
   ];
 
   /* =======================================================================
